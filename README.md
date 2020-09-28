@@ -1,1 +1,1 @@
-# lab-projects
+# research-projects

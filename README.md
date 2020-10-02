@@ -1,1 +1,1 @@
-# research-projects
+# project_chi_squared_scripts

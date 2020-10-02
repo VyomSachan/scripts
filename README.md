@@ -1,1 +1,1 @@
-# project_chi_squared_scripts
+# chi-squared project scripts

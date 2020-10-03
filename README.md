@@ -1,1 +1,1 @@
-# chi-squared project scripts
+# scripts
